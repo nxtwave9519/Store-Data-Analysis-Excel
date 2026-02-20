@@ -28,7 +28,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Store-Data-Analysis-Excel.git
+git clone https://github.com/nxtwave9519/Store-Data-Analysis-Excel.git
 ```
 
 2. Open the `Raw Data.xlsx` file in Microsoft Excel.
